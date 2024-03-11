@@ -1,0 +1,12 @@
+- Initiatives complete list display? Lazy loading?
+- Footer contact form - for sending emails...? Permission required!
+- Subject not necessary in contact form
+- Address also not necessary
+- Initiatives present in navbar, not necessary on home page + initiatives page
+- Our collaborations - "Read more" should redirects to about us page? Same problem as initiatives page.
+- Footer registration for event? Event page + Registration form?
+- Home PDQ carousel arrow pointing downward, is the carousel vertical?
+- Why is a different logo used for LinkedIn?
+- Can all carousels appear same? Do the cards need to align differently?
+- Dynamic testimonials?
+- Our journey is dynamic!!!
